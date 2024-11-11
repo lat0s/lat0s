@@ -44,3 +44,60 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lat0s&theme=algolia&layout=compact"/>
 </p>
+
+<!-- Experience -->
+<details> 
+  <summary><h2>📚 Experience</h2></summary>
+
+  <h3>👨‍💻 Programming and Markup Languages</h3>
+    <p>
+      <img src="./assets/badges/Languages/c.svg">
+      <img src="./assets/badges/Languages/c++.svg">
+      <img src="./assets/badges/Languages/csharp.svg">
+      <img src="./assets/badges/Languages/css.svg">
+      <img src="./assets/badges/Languages/html.svg">
+      <img src="./assets/badges/Languages/java.svg">
+      <img src="./assets/badges/Languages/javascript.svg">
+      <img src="./assets/badges/Languages/mdown.svg">
+      <img src="./assets/badges/Languages/python.svg">
+      <img src="./assets/badges/Languages/svgxml.svg">
+      <img src="./assets/badges/Languages/typescript.svg">
+    </p>
+
+  <h3>🧰 Frameworks and Libraries</h3>
+   <p>
+      <img src="./assets/badges/Frameworks/arduino.svg">
+      <img src="./assets/badges/Frameworks/bootstrap.svg">
+      <img src="./assets/badges/Frameworks/express.svg">
+      <img src="./assets/badges/Frameworks/react.svg">
+      <img src="./assets/badges/Frameworks/vue.svg">
+      <img src="./assets/badges/Frameworks/wpf.svg">
+      <img src="./assets/badges/Frameworks/nodejs.svg">
+   </p>
+
+  <h3>🗄️ Databases</h3>
+    <p>
+      <img src="./assets/badges/Databases/mongo.svg">
+      <img src="./assets/badges/Databases/mysql.svg">
+      <img src="./assets/badges/Databases/postgresql.svg">
+    </p>
+
+  <h3> 💻 Software & Tools</h3>
+    <p>
+      <img src="./assets/badges/Tools/android.svg">
+      <img src="./assets/badges/Tools/androidstudio.svg">
+      <img src="./assets/badges/Tools/aseprite.svg">
+      <img src="./assets/badges/Tools/git.svg">
+      <img src="./assets/badges/Tools/notion.svg">
+      <img src="./assets/badges/Tools/photoshop.svg">
+      <img src="./assets/badges/Tools/postman.svg">
+      <img src="./assets/badges/Tools/sonar.svg">
+      <img src="./assets/badges/Tools/unity.svg">
+      <img src="./assets/badges/Tools/linux.svg">
+      <img src="./assets/badges/Tools/docker.svg">
+      <img src="./assets/badges/Tools/env.svg">
+      <img src="./assets/badges/Tools/discordjs.svg">
+      <img src="./assets/badges/Tools/materialdesign.svg">
+      <img src="./assets/badges/Tools/junit.svg">
+    </p>
+</details>
