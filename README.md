@@ -22,3 +22,10 @@
   <a href="https://discordapp.com/users/989771998899109951" alt="Discord"><img width="32px" src="./assets/discord.png"/><a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
+<!-- Stats -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lat0s&theme=algolia&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lat0s&theme=algolia&layout=compact"/>
+</p>
