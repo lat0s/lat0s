@@ -1,4 +1,5 @@
 <!-- Top Section -->
+<!-- INSPIRATION FROM DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <!-- Title -->
 <p align="center">
   <a href="https://github.com/lat0s">
@@ -44,6 +45,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lat0s&theme=algolia&layout=compact"/>
 </p>
+
+---
 
 <!-- Experience -->
 <details> 
