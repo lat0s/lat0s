@@ -38,6 +38,8 @@
 ---
 
 <!-- Stats -->
+<h2 align="center"> ⚡ Stats </h2>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lat0s&theme=algolia&show_icons=true"/>
@@ -46,14 +48,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lat0s&theme=algolia&layout=compact"/>
 </p>
 
----
-
 <!-- Experience -->
-<details> 
-  <summary><h2>📚 Experience</h2></summary>
+<hr>
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
-    <p>
+<h2 align="center">📚 Experience</h2>
+<br>
+  <h3 align="center">👨‍💻 Programming and Markup Languages</h3>
+    <p align="center">
       <img src="./assets/badges/Languages/c.svg">
       <img src="./assets/badges/Languages/c++.svg">
       <img src="./assets/badges/Languages/csharp.svg">
@@ -66,9 +67,9 @@
       <img src="./assets/badges/Languages/svgxml.svg">
       <img src="./assets/badges/Languages/typescript.svg">
     </p>
-
-  <h3>🧰 Frameworks and Libraries</h3>
-   <p>
+<br>
+  <h3 align="center">🧰 Frameworks and Libraries</h3>
+   <p align="center">
       <img src="./assets/badges/Frameworks/arduino.svg">
       <img src="./assets/badges/Frameworks/bootstrap.svg">
       <img src="./assets/badges/Frameworks/express.svg">
@@ -77,16 +78,16 @@
       <img src="./assets/badges/Frameworks/wpf.svg">
       <img src="./assets/badges/Frameworks/nodejs.svg">
    </p>
-
-  <h3>🗄️ Databases</h3>
-    <p>
+<br>
+  <h3 align="center">🗄️ Databases</h3>
+    <p align="center">
       <img src="./assets/badges/Databases/mongo.svg">
       <img src="./assets/badges/Databases/mysql.svg">
       <img src="./assets/badges/Databases/postgresql.svg">
     </p>
-
-  <h3> 💻 Software & Tools</h3>
-    <p>
+<br>
+  <h3 align="center"> 💻 Software & Tools</h3>
+    <p align="center">
       <img src="./assets/badges/Tools/android.svg">
       <img src="./assets/badges/Tools/androidstudio.svg">
       <img src="./assets/badges/Tools/aseprite.svg">
@@ -103,4 +104,10 @@
       <img src="./assets/badges/Tools/materialdesign.svg">
       <img src="./assets/badges/Tools/junit.svg">
     </p>
-</details>
+<br>
+
+---
+
+<p align="center">
+<img src="./assets/footer.svg">
+</p>
