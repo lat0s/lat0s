@@ -23,6 +23,9 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<p align="center">
+<img  width="200" height="200" src="./assets/welcome.gif">
+</p>
 <!-- Badges -->
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flat0s"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flat0s&label=Visitors&labelColor=%232ccce4&countColor=%23555555" /></a>
@@ -106,7 +109,7 @@
     </p>
 <br>
 
----
+## <!-- Footer -->
 
 <p align="center">
 <img src="./assets/footer.svg">
