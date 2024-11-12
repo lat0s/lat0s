@@ -23,9 +23,6 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<p align="center">
-<img  width="200" height="200" src="./assets/welcome.gif">
-</p>
 <!-- Badges -->
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flat0s"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flat0s&label=Visitors&labelColor=%232ccce4&countColor=%23555555" /></a>
@@ -38,6 +35,11 @@
   </a>
 </p>
 
+<!-- GIF -->
+<p align="center">
+<img  src="./assets/hello.gif">
+</p>
+
 ---
 
 <!-- Stats -->
@@ -45,7 +47,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lat0s&theme=algolia&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lat0s&include_all_commits=true&theme=algolia&show_icons=true"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lat0s&theme=algolia&layout=compact"/>
@@ -108,6 +110,17 @@
       <img src="./assets/badges/Tools/junit.svg">
     </p>
 <br>
+
+<hr>
+<!-- Repositories -->
+
+  <h2 align="center">📘 My Top Open Source Projects</h2>
+  <a href="https://github.com/lat0s/GreenThumb"><img width="278" 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=lat0s&repo=GreenThumb&theme=algolia&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+
+<br>
+
+<hr>
 
 ## <!-- Footer -->
 
