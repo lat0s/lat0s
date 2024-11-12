@@ -114,9 +114,7 @@
 <hr>
 <!-- Repositories -->
 
-  <h2 align="center">📘 My Top Open Source Projects</h2>
-  <a href="https://github.com/lat0s/GreenThumb"><img width="278" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=lat0s&repo=GreenThumb&theme=algolia&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+
 
 <br>
 
