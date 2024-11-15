@@ -116,6 +116,8 @@
   <h2 align="center">📘 My Top Open Source Projects</h2>
   <a href="https://github.com/lat0s/GreenThumb"><img width="278" 
   src="https://github-readme-stats.vercel.app/api/pin/?username=lat0s&repo=GreenThumb&theme=algolia&hide_border=false&icon_color=fcda5d&show_icons=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/lat0s/FlossophyREST"><img width="278" 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=lat0s&repo=FlossophyREST&theme=algolia&hide_border=false&icon_color=fcda5d&show_icons=true" alt="readme-typing-svg"></a>
 
 
 <br>
