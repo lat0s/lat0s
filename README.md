@@ -40,40 +40,22 @@
 <img  src="./assets/hello.gif">
 </p>
 
----
-
-<!-- Stats -->
-<h2 align="center"> ⚡ Stats </h2>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lat0s&include_all_commits=true&theme=algolia&show_icons=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lat0s&theme=algolia&layout=compact"/>
-</p>
-
 <!-- Experience -->
 <hr>
 
 <h2 align="center">📚 Experience</h2>
 <br>
-  <h3 align="center">👨‍💻 Programming and Markup Languages</h3>
+  <h3 align="center">👨‍💻 Programming Languages</h3>
     <p align="center">
-      <img src="./assets/badges/Languages/c.svg">
       <img src="./assets/badges/Languages/c++.svg">
       <img src="./assets/badges/Languages/csharp.svg">
-      <img src="./assets/badges/Languages/css.svg">
-      <img src="./assets/badges/Languages/html.svg">
       <img src="./assets/badges/Languages/java.svg">
       <img src="./assets/badges/Languages/javascript.svg">
-      <img src="./assets/badges/Languages/mdown.svg">
       <img src="./assets/badges/Languages/python.svg">
-      <img src="./assets/badges/Languages/svgxml.svg">
       <img src="./assets/badges/Languages/typescript.svg">
     </p>
 <br>
-  <h3 align="center">🧰 Frameworks and Libraries</h3>
+  <h3 align="center">🧰 Frameworks </h3>
    <p align="center">
       <img src="./assets/badges/Frameworks/arduino.svg">
       <img src="./assets/badges/Frameworks/bootstrap.svg">
@@ -87,16 +69,13 @@
   <h3 align="center">🗄️ Databases</h3>
     <p align="center">
       <img src="./assets/badges/Databases/mongo.svg">
-      <img src="./assets/badges/Databases/mysql.svg">
       <img src="./assets/badges/Databases/postgresql.svg">
     </p>
 <br>
   <h3 align="center"> 💻 Software & Tools</h3>
     <p align="center">
-      <img src="./assets/badges/Tools/android.svg">
       <img src="./assets/badges/Tools/androidstudio.svg">
       <img src="./assets/badges/Tools/aseprite.svg">
-      <img src="./assets/badges/Tools/git.svg">
       <img src="./assets/badges/Tools/notion.svg">
       <img src="./assets/badges/Tools/photoshop.svg">
       <img src="./assets/badges/Tools/postman.svg">
@@ -104,14 +83,26 @@
       <img src="./assets/badges/Tools/unity.svg">
       <img src="./assets/badges/Tools/linux.svg">
       <img src="./assets/badges/Tools/docker.svg">
-      <img src="./assets/badges/Tools/env.svg">
       <img src="./assets/badges/Tools/discordjs.svg">
-      <img src="./assets/badges/Tools/materialdesign.svg">
       <img src="./assets/badges/Tools/junit.svg">
     </p>
 <br>
 
 <hr>
+
+
+<!-- Stats -->
+<h2 align="center"> ⚡ Stats </h2>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lat0s&include_all_commits=true&theme=algolia&show_icons=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lat0s&theme=algolia&layout=compact"/>
+</p>
+
+
 <!-- Repositories -->
   <h2 align="center">📘 My Top Open Source Projects</h2>
   <a href="https://github.com/lat0s/GreenThumb"><img width="278" 
