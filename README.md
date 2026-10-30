@@ -1,12 +1,12 @@
 <a href="https://lat0s.com">
-  <img src="assets/hero.svg" width="100%" alt="George Latos, AI Developer and Software Engineer (Full-Stack) at RENER Energy. C#, .NET, TypeScript, React, Python, Docker, Azure DevOps, Linux.">
+  <img src="assets/hero.svg" width="100%" alt="George Latos, AI Developer and Full-Stack Software Engineer at RENER Energy. C#, .NET, TypeScript, React, Python, Docker, Azure DevOps, Linux.">
 </a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/latosgeorge"><img src="https://img.shields.io/badge/LinkedIn-latosgeorge-6E00FF?style=flat-square&logo=linkedin&logoColor=white&labelColor=15101F" alt="LinkedIn"></a>
-  <a href="https://lat0s.com"><img src="https://img.shields.io/badge/Portfolio-lat0s.com-F2C94C?style=flat-square&logo=googlechrome&logoColor=F2C94C&labelColor=15101F" alt="Portfolio"></a>
-  <a href="https://github.com/lat0s/latos-taskmanager"><img src="https://img.shields.io/github/stars/lat0s/latos-taskmanager?style=flat-square&label=latos-taskmanager&logo=linux&logoColor=white&labelColor=15101F&color=AE94F5" alt="latos-taskmanager stars"></a>
-  <img src="https://img.shields.io/badge/Remote-EU-8B5CF6?style=flat-square&labelColor=15101F" alt="Remote, EU">
+  <a href="https://www.linkedin.com/in/latosgeorge"><img src="https://img.shields.io/badge/LinkedIn-latosgeorge-6B3FA0?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B0714" alt="LinkedIn"></a>
+  <a href="https://lat0s.com"><img src="https://img.shields.io/badge/Portfolio-lat0s.com-F4B942?style=flat-square&logo=googlechrome&logoColor=F4B942&labelColor=0B0714" alt="Portfolio"></a>
+  <a href="https://github.com/lat0s/latos-taskmanager"><img src="https://img.shields.io/github/stars/lat0s/latos-taskmanager?style=flat-square&label=latos-taskmanager&logo=linux&logoColor=white&labelColor=0B0714&color=C4A8FF" alt="latos-taskmanager stars"></a>
+  <img src="https://img.shields.io/badge/Remote-EU-8B5CF6?style=flat-square&labelColor=0B0714" alt="Remote, EU">
 </p>
 
 ## About
@@ -110,7 +110,7 @@ Each one is live and maintained. I handled design, development, SEO and deployme
 
 ## Skills
 
-<img src="assets/orbit.svg" width="100%" alt="Tech stack orbiting a spinning globe">
+<img src="assets/skills.svg" width="100%" alt="Skills: .NET and C#, TypeScript, React, Next.js, Python, Rust, PostgreSQL, Docker, CI/CD, Linux, LLM and RAG, mobile">
 
 - **Languages:** C#, TypeScript, JavaScript, Python, Rust, SQL, Java
 - **Backend:** .NET, ASP.NET Core, Node.js, REST APIs, PostgreSQL, event-driven systems
@@ -123,7 +123,7 @@ Each one is live and maintained. I handled design, development, SEO and deployme
 
 ## Infrastructure and delivery
 
-<img src="assets/pipeline.svg" width="100%" alt="Delivery pipeline from git push through CI, Docker image, deploy, Cloudflare edge and observability">
+<img src="assets/pipeline.svg" width="100%" alt="Delivery pipeline: git push, review, CI tests, build, deploy, monitor">
 
 I deploy and run production systems end to end:
 
@@ -142,5 +142,5 @@ I deploy and run production systems end to end:
 Greek (native) · English (fluent) · Swedish (conversational)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/latosgeorge"><img src="https://img.shields.io/badge/Open_to_senior_full--stack_and_AI_engineering_roles-Get_in_touch-F2C94C?style=for-the-badge&logo=linkedin&logoColor=15101F&labelColor=6E00FF" alt="Open to senior full-stack and AI engineering roles. Get in touch on LinkedIn."></a>
+  <a href="https://www.linkedin.com/in/latosgeorge"><img src="https://img.shields.io/badge/Open_to_senior_full--stack_and_AI_engineering_roles-Get_in_touch-F4B942?style=for-the-badge&logo=linkedin&logoColor=0B0714&labelColor=6B3FA0" alt="Open to senior full-stack and AI engineering roles. Get in touch on LinkedIn."></a>
 </p>
