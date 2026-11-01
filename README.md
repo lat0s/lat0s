@@ -100,6 +100,7 @@ Each one is live and maintained. I handled design, development, SEO and deployme
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
 | [**latos-taskmanager**](https://github.com/lat0s/latos-taskmanager) | Open-source task manager for Linux: per-app CPU, memory, disk and GPU, sensors, startup apps and services. Configurable by an AI agent skill. | `Rust` `React` `TypeScript` |
+| [**flossophy**](https://github.com/lat0s/flossophy) · [live demo](https://flossophy.lat0s.com) | Dentist booking app for patients and dentists. Typed end to end, race-safe booking, and a bot-gated demo that sleeps when idle. | `Vue` `Koa` `MongoDB` `TypeScript` |
 | **Nexus EMS & SCADA** (RENER, private) | Monitoring and control for battery storage and solar parks, with web and mobile apps for operators. | `C#` `.NET` `React` |
 | **Melo** (private, in development) | Restaurant POS and back office: offline-first cashier, kitchen display, handhelds and cloud sync. | `.NET` `React` |
 | **eoko** (private) | Multi-site directory platform with vector search and AI-assisted imports. | `React` `PostgreSQL` |
